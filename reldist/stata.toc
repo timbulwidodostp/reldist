@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p reldist Relative distribution analysis Use reldist With STATA 19
