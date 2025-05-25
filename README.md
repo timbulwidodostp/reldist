@@ -1,6 +1,8 @@
 # reldist
 Relative distribution analysis Use reldist With STATA 19
 
+https://www.youtube.com/watch?v=LIALk85O3dQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
